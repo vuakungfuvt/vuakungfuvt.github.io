@@ -1,0 +1,16 @@
+{
+  "minVersion": "1.0.0",
+  "sourceOrder": ["fawaz", "frankfurter", "erapi"],
+  "adPacing": {
+    "interstitialMinSessionSeconds": 60,
+    "interstitialMinGapSeconds": 180,
+    "interstitialMaxPerDay": 6,
+    "interstitialCooldownAfterRewardedSeconds": 180,
+    "rewardedMaxPerDay": 3,
+    "rewardHours": 24,
+    "appOpenMinBackgroundHours": 4,
+    "appOpenAdTtlHours": 4,
+    "appOpenAfterInterstitialSeconds": 5
+  },
+  "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.kurrentcy.app"
+}
